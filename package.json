@@ -1,0 +1,11 @@
+{
+  "name": "japix-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "japix": "https://github.com/shatinik/japix-core.git",
+    "mysql": "^2.16.0",
+    "sequelize": "^4.41.2"
+  }
+}
